@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 * ✨I'm Mohamed BARRY
-* I currently live in Lyon
-* Je suis passionné de par la Data
+* 🏠I currently live in Lyon
+* 🤩I'm passionate about Data
 
 ### Bienvenue ```${tonNomEstIci.promis}```, je suis Mohamed BARRY
 
