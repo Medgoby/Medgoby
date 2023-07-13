@@ -12,7 +12,6 @@
   <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/WvSjK3P8hqGA9AaUgt/giphy.gif"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Medgoby)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Medgoby/Medgoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
