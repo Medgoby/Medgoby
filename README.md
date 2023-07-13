@@ -18,8 +18,7 @@ de **programmation** trois éléments qui m'intéressent **grandement.**
 
 
 ### Etude MIT, Harvard ?
-```javascript
-
+```python
 if (mohamed.diplomes > 0):
     return f"(I'm you'r graduate men !)"
 return f"(Sorry, i can do nothing for you.)"
