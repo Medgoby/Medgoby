@@ -11,6 +11,11 @@
 </p>
 
 
+### Pourquoi La Data et pas astronaute ?
+
+J'ai toujours été attiré par les mathématiques, les statistiques et l'informatique et j'ai peur du vide donc... 💨 (naturellement) je me suis dirigé vers la Data un mélange de **Mathématique**,  **Statistique** et
+de **programmation** trois éléments qui m'intéressent **grandement.**
+
 <!--
 **Medgoby/Medgoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
