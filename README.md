@@ -16,6 +16,15 @@
 J'ai toujours été attiré par les mathématiques, les statistiques et l'informatique et j'ai peur du vide donc... 💨 (naturellement) je me suis dirigé vers la Data un mélange de **Mathématique**,  **Statistique** et
 de **programmation** trois éléments qui m'intéressent **grandement.**
 
+
+### Etude MIT, Harvard ?
+```javascript
+
+if (mohamed.diplomes > 0):
+    return f"(I'm you'r graduate men !)"
+return f"(Sorry, i can do nothing for you.)"
+```
+
 <!--
 **Medgoby/Medgoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
