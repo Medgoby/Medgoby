@@ -24,6 +24,22 @@ if (mohamed.diplomes > 0):
 return f"(Sorry, i can do nothing for you.)"
 ```
 
+<img align="right" width="55%" alt="GIF" src="https://media.giphy.com/media/jFJW3hOGQgTUk/giphy.gif"></img>
+
+*Sorry, i can do nothing for you.*
+
+**Bon, ok.. d'accord 😕, je l'avoue j'ai tout appris tout seul dans mon coin et alors ?**
+  - [x] Personne ne m'oblige à le faire et pourtant je le fais
+  - [x] Apprendre chaque jour est devenu une habitude
+  - [x] Devoir résoudre seul des problèmes est une obligation
+  - [x] Savoir effectuer des recherches
+  - [ ] Dormir en cours car le prof est en pilote automatique *(Critique facile, mais vrai)*
+  ``` 
+  Error: Too many re-renders. God limits number of
+  renders to prevent an infinite loop of stupidity.
+  ```
+
+
 <!--
 **Medgoby/Medgoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
