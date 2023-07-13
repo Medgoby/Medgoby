@@ -4,9 +4,7 @@
 * 🏠I currently live in Lyon
 * 🤩I'm passionate about Data
 
-### Bienvenue ```${tonNomEstIci.promis}```, je suis Mohamed BARRY
-
-### Je vis à Lyon et je suis passioné par la Data
+### Bienvenue ```${tonNomEstIci.promis}```
 
 <p align="center">
   <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/WvSjK3P8hqGA9AaUgt/giphy.gif"/>
