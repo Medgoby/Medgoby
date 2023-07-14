@@ -24,8 +24,6 @@ if (mohamed.diplomes > 0):
 return f"(Sorry, i can do nothing for you.)"
 ```
 
-<img align="right" width="55%" alt="GIF" src="https://media.giphy.com/media/jFJW3hOGQgTUk/giphy.gif"></img>
-
 *Sorry, i can do nothing for you.*
 
 **Bon, ok.. d'accord 😕, je l'avoue que j'ai des diplômes et j'ai appris pas mal de choses tout seul dans mon coin**
@@ -35,6 +33,9 @@ return f"(Sorry, i can do nothing for you.)"
 &nbsp;
 
 ## Et tu as fait quoi alors ?
+
+
+<img align="right" width="55%" alt="GIF" src="https://media.giphy.com/media/jFJW3hOGQgTUk/giphy.gif"></img>
 
 **J'ai développé des projets entièrement de la conception de la maquette au déploiement de l'algorithme et découvert une multitude de technologies.**<br/>
 
