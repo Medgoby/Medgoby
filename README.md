@@ -39,7 +39,23 @@ return f"(Sorry, i can do nothing for you.)"
   renders to prevent an infinite loop of stupidity.
   ```
 
+&nbsp;
 
+## Et tu as fait quoi alors ?
+
+**J'ai développé des projets entièrement de conception de la maquette au déploiement de l'algorithme et découvert une multitude de technologies.**<br/>
+
+En plus, comme j'ai appris par passion avec **mon temps** et **mes économies** 💳, je sais par avance que pour tous les projets professionnels 
+je suis **surmotivé** à l'idée de **créer** le projet d'une personne et de **l'aider**.<br/>
+~~Chaque jour~~, je renforce mes connaissances pour toujours aller plus loin et avancer vers mes objectifs.
+```js
+function GodDetectBullshit(isBullshit) {
+  if(isBullshit){
+    return console.log("5.5 jours sur 7");
+  }
+ return console.log(isBullshit);
+}
+ ```
 <!--
 **Medgoby/Medgoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
