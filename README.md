@@ -47,7 +47,7 @@ En plus, comme j'ai appris par passion avec **mon temps** et **mes économies** 
   - [x] Savoir effectuer des recherches
   - [ ] Dormir en cours car le prof est en pilote automatique *(Critique facile, mais vrai)*
 
-
+<!-- 
 **Medgoby/Medgoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
