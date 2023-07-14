@@ -20,7 +20,7 @@ de **programmation** trois éléments qui m'intéressent **grandement.**
 ### Etude MIT, Harvard ?
 ```python
 if (mohamed.diplomes > 0):
-    return f"(I'm you'r graduate men !)"
+    return f"(I'm you'r graduate men !\nMaster 2 in Applied Econometrics, University of Lille, France\nMaster 2 in Artificial Intelligence at the IA School in Lyon, France)"
 return f"(Sorry, i can do nothing for you.)"
 ```
 
