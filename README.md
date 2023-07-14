@@ -28,7 +28,7 @@ return f"(Sorry, i can do nothing for you.)"
 
 *Sorry, i can do nothing for you.*
 
-**Bon, ok.. d'accord 😕, je l'avoue j'ai tout appris tout seul dans mon coin et alors ?**
+**Bon, ok.. d'accord 😕, je l'avoue j'ai des diplômes et j'ai appris pas mal de choses tout seul dans mon coin**
   - [x] Personne ne m'oblige à le faire et pourtant je le fais
   - [x] Apprendre chaque jour est devenu une habitude
   - [x] Devoir résoudre seul des problèmes est une obligation
