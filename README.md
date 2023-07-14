@@ -37,9 +37,9 @@ return f"(Sorry, i can do nothing for you.)"
 
 <img align="right" width="55%" alt="GIF" src="https://media.giphy.com/media/jFJW3hOGQgTUk/giphy.gif"></img>
 
-**J'ai développé des projets entièrement de la conception de la maquette au déploiement de l'algorithme et découvert une multitude de technologies.**<br/>
+**J'ai développé et géré des projets de bout en bout, de la conception de la maquette au déploiement de l'algorithme et découvert une multitude de technologies.**<br/>
 
-En plus, comme j'ai appris par passion avec **mon temps** et **mes économies** 💳, je **renforce** mes connaissances pour toujours aller plus loin et avancer vers mes objectifs .<br/>
+En plus, comme j'ai appris par passion avec **mon temps** et **mes économies** 💳, je **renforce** mes connaissances pour toujours, aller plus loin et avancer vers mes objectifs .<br/>
 
   - [x] Personne ne m'oblige à le faire et pourtant je le fais
   - [x] Apprendre chaque jour est devenu une habitude
@@ -47,15 +47,7 @@ En plus, comme j'ai appris par passion avec **mon temps** et **mes économies** 
   - [x] Savoir effectuer des recherches
   - [ ] Dormir en cours car le prof est en pilote automatique *(Critique facile, mais vrai)*
 
-<!-- ```js
-function GodDetectBullshit(isBullshit) {
-  if(isBullshit){
-    return console.log("5.5 jours sur 7");
-  }
- return console.log(isBullshit);
-}
- ```
-<!-- -->
+
 **Medgoby/Medgoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
