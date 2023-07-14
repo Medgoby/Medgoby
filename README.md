@@ -32,7 +32,7 @@ return f"(Sorry, i can do nothing for you.)"
 
 &nbsp;
 
-## Et tu as fait quoi alors ?
+## Et quoi d'autres ?
 
 
 <img align="right" width="55%" alt="GIF" src="https://media.giphy.com/media/jFJW3hOGQgTUk/giphy.gif"></img>
