@@ -28,7 +28,11 @@ return f"(Sorry, i can do nothing for you.)"
 
 *Sorry, i can do nothing for you.*
 
-**Bon, ok.. d'accord 😕, je l'avoue j'ai des diplômes et j'ai appris pas mal de choses tout seul dans mon coin**
+**Bon, ok.. d'accord 😕, je l'avoue que j'ai des diplômes et j'ai appris pas mal de choses tout seul dans mon coin**
+  - [x] Master 2 in Applied Econometrics, University of Lille, France
+  - [x] Master 2 in Artificial Intelligence at the IA School in Lyon, France
+
+
   - [x] Personne ne m'oblige à le faire et pourtant je le fais
   - [x] Apprendre chaque jour est devenu une habitude
   - [x] Devoir résoudre seul des problèmes est une obligation
@@ -43,7 +47,7 @@ return f"(Sorry, i can do nothing for you.)"
 
 ## Et tu as fait quoi alors ?
 
-**J'ai développé des projets entièrement de conception de la maquette au déploiement de l'algorithme et découvert une multitude de technologies.**<br/>
+**J'ai développé des projets entièrement de la conception de la maquette au déploiement de l'algorithme et découvert une multitude de technologies.**<br/>
 
 En plus, comme j'ai appris par passion avec **mon temps** et **mes économies** 💳, je sais par avance que pour tous les projets professionnels 
 je suis **surmotivé** à l'idée de **créer** le projet d'une personne et de **l'aider**.<br/>
